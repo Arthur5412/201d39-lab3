@@ -1,0 +1,52 @@
+body {
+  background: #ccc;
+}
+
+header {
+  background: #111;
+  color: gold;
+  height: 70px;
+  line-height: 70px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+main {
+  margin: 25px;
+}
+
+ul {
+  display: inline-block;
+  list-style-type: inherit;
+  list-style-position: inside;
+  text-align: center;
+  width:  150px;
+  border: 2px solid #111;
+  padding: 5px;
+  box-align: center;
+  margin: 10px;
+
+}
+
+li {
+  margin-left: 10px;
+}
+p.overview {
+  text-align: center;
+  width:  250px;
+  border: 2px solid #111;
+  padding: 5px;
+  box-align: center;
+  margin: 20px;
+}
+
+footer {
+  background: #efefef;
+  color: #111;
+  padding: 15px;
+  text-align: center;
+}
